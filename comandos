@@ -1,0 +1,10 @@
+Git e arquivos
+
+Estados dos arquivos:
+Não monitorado (untracked): apenas cria o arquivo na pasta. xed nomeArquivo
+Modificado (modified): abre um arquivo existente e faz a modificação já estava comitado
+Preparado (staged): git add (área de staged até que seja feito o comit)
+Consolidado (commited): registra no repositório a mudança
+Comites: representam as mudanças do git
+
+git diff: exibe diferenças ente commits e branchs
